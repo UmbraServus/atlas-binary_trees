@@ -15,7 +15,7 @@ binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
 
 	if (parent == NULL || new_node == NULL)
 	{
-		if(parent == NULL)
+		if (parent == NULL)
 		{
 		free(new_node);
 		}
