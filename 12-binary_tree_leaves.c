@@ -5,7 +5,7 @@
  * @tree: the node given to count the leaves of.
  *
  *
- * Return: 0 if tree is NULL or number of leaves. 
+ * Return: 0 if tree is NULL or number of leaves.
  *
  */
 
