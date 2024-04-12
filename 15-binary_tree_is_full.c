@@ -21,7 +21,7 @@ int binary_tree_is_full(const binary_tree_t *tree)
 	L = binary_tree_is_full(tree->left);
 	R = binary_tree_is_full(tree->right);
 
-	if (L != NULL || R != NULL)
+	if (L == NULL || R == NULL)
 	{
 		return (0);
 	}
