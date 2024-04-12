@@ -1,11 +1,11 @@
 #include "binary_trees.h"
 
 /**
+ * binary_tree_is_full- checks to see if binary tree is full
+ * @tree: tree to be checked recursively
  *
  *
- *
- *
- *
+ * Return: 0 if not full and 1 if full
  *
  */
 
