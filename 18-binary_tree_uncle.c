@@ -30,7 +30,7 @@ binary_tree_t *binary_tree_sibling(binary_tree_t *node)
 }
 
 /**
- * binary_tree_unlce- checks if node has an uncle
+ * binary_tree_uncle- checks if node has an uncle
  * @node: node to be chcked
  *
  *
